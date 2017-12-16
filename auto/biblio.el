@@ -2,6 +2,9 @@
  "biblio"
  (lambda ()
    (LaTeX-add-bibitems
+    "trudgill2000englishes"
+    "matras2009language"
+    "bock2009nucleus"
     "ratliff2015tonoexodus"
     "dalton2008irish"
     "katsnelson1966sravnitelnaya"

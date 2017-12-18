@@ -2,6 +2,11 @@
  "biblio"
  (lambda ()
    (LaTeX-add-bibitems
+    "versloot2008mechanisms"
+    "woolf2017nature"
+    "márkus2017conceiving"
+    "kallio2014proto"
+    "ahola2014fibula"
     "trudgill2000englishes"
     "matras2009language"
     "bock2009nucleus"

@@ -2,6 +2,17 @@
  "biblio"
  (lambda ()
    (LaTeX-add-bibitems
+    "kock1901accentuierung"
+    "jakobson1938sur"
+    "jakobson1949sur"
+    "van_der_Hulst_2013"
+    "afendras1970can"
+    "sawicka2007arealinės"
+    "sandfeld1930linguistique"
+    "asenova2002balkansko"
+    "trubetzkoy1923vavilonskaya"
+    "seliscev1925des"
+    "whyte2017settlement"
     "odden2017markedness"
     "mckenn2013agàidhlig"
     "brooks2017why"

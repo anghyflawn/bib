@@ -2,6 +2,12 @@
  "biblio"
  (lambda ()
    (LaTeX-add-bibitems
+    "fischer-jørgensen1975trends"
+    "glanc2017russkie"
+    "salmons2014structuralist"
+    "polivanov1924vokalizm"
+    "kiparsky1977towards"
+    "matthews1974morphology"
     "hanssen1996dialektene"
     "jahr1996nordnorske"
     "cavirani2017"

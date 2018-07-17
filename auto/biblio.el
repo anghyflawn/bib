@@ -2,6 +2,12 @@
  "biblio"
  (lambda ()
    (LaTeX-add-bibitems
+    "leskien1882litauische"
+    "greene1952middle"
+    "halle1963phonemics"
+    "sebeok1963soviet"
+    "gordina1984foneticheskiĭ"
+    "Twaddell_1935"
     "fischer-jørgensen1975trends"
     "glanc2017russkie"
     "salmons2014structuralist"

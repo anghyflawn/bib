@@ -2,6 +2,14 @@
  "biblio"
  (lambda ()
    (LaTeX-add-bibitems
+    "holmer1940irish"
+    "marstrander1915bidrag"
+    "rekdal2009carl"
+    "leontev1974life"
+    "bremer1927schleifton"
+    "sievers1914mundart"
+    "rabeler1911niederdeutscher"
+    "bennett2017moro"
     "leskien1882litauische"
     "greene1952middle"
     "halle1963phonemics"
